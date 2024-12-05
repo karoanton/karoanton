@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karoline</h1>
+<h3 align="center">she/her/hers</h3>
 <h3 align="center">a linguist, researcher, and aspiring data scientist from Toronto, Canada</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karoanton&label=Profile%20views&color=0e75b6&style=flat" alt="karoanton" /> </p>
@@ -29,3 +30,15 @@
 <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karoanton&show_icons=true&locale=en&layout=compact" alt="karoanton" /></p>
+
+<h3 align="left">About Me:</h3>
+<p align="left"><b>Name:</b> Karoline Antonsen</p>
+<p align="left"><b>Location:</b> Toronto, Ontario, Canada</p>
+<p align="left">
+  <b>Education:</b> 
+  Master of Science, University of Alberta (2020-2023),
+  Honours Bachelor of Arts, University of Toronto (2014-2019)</p>
+<p align="left">
+  <b>Thesis: </b>
+  Semantic Dimensions of Tsuut'ina Verbs: A Corpus-Based Analysis of Synonymy and Hyponymy (https://era.library.ualberta.ca/items/53a8bf8b-2e2e-4d11-8c2e-5b9b69a4ad10)
+</p>
