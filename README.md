@@ -6,9 +6,9 @@
 
 - 📚 I have a Master of Science degree in Linguistics
 
-- 🔭 I’m currently working on analysing data on the UK television series [Taskmaster](https://taskmaster.tv/) on [Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/comedians-challenged-ridiculous-taskmaster-ds)
-
 - 🌱 I’m currently learning **Python, R, SQL**
+
+- 🔭 I most recently completed a data analysis on data from the UK television series [Taskmaster](https://taskmaster.tv/) on [Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/comedians-challenged-ridiculous-taskmaster-ds) available in the repository titled **portfolio**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/karoanton) or [Kaggle](https://www.kaggle.com/karoanton)
 
