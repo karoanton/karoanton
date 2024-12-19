@@ -35,10 +35,10 @@
 <p align="left"><b>Name:</b> Karoline Antonsen</p>
 <p align="left"><b>Location:</b> Toronto, Ontario, Canada</p>
 <p align="left">
-  <b>Education:</b> 
-  Master of Science, University of Alberta (2020-2023),
-  Honours Bachelor of Arts, University of Toronto (2014-2019)</p>
+  <b>Education:</b> </p>
+  <p>Master of Science, University of Alberta (2020-2023)</p>
+  <p>Honours Bachelor of Arts, University of Toronto (2014-2019)</p>
 <p align="left">
   <b>Thesis: </b>
-  Semantic Dimensions of Tsuut'ina Verbs: A Corpus-Based Analysis of Synonymy and Hyponymy (https://era.library.ualberta.ca/items/53a8bf8b-2e2e-4d11-8c2e-5b9b69a4ad10)
+  <a href="https://era.library.ualberta.ca/items/53a8bf8b-2e2e-4d11-8c2e-5b9b69a4ad10"> Semantic Dimensions of Tsuut'ina Verbs: A Corpus-Based Analysis of Synonymy and Hyponymy </a>
 </p>
